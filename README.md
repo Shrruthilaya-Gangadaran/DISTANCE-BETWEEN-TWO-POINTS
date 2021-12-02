@@ -9,7 +9,7 @@ Import math library using import statement.
 Define the two points into two separate lists.
 ### Step 3: 
 Substitute the values in the distance formula. 
- ![formula](formula.jpg)
+ ![formula](/formula.jpg)
 ### Step 4: 
 Print the final value rounded upto two decimals using format function. It would display the distance value.
 ### Step 5:
